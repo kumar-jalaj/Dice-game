@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Startgame from "./components/startgame";
+import Startgame from "./components/Startgame";
 import GamePlay from "./components/GamePlay";
 
 function App() {
